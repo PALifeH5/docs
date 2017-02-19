@@ -1,7 +1,5 @@
 # React最佳实践
 
-<img src="./react-logo.png" alt="logo" style="display: none">
-
 本篇文档旨在总结过去接近一年使用React重构项目的经验，得出我们的最佳实践。最佳实现可以作为我们的一个开发指引和代码规范，也希望对大家有所启发。
 
 ## 开发语言
