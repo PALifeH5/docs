@@ -6,4 +6,4 @@
 
 ## React
 
-- [React最佳实践](./react-best-practices/README.md)
+- [React 最佳实践](./react-best-practices/README.md)
